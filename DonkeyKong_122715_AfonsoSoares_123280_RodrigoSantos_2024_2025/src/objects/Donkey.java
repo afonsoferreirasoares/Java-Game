@@ -14,7 +14,7 @@ public class Donkey extends GameObject implements Character {
 
     @Override
     public String getName() {
-        return "Diddy";
+        return "DonkeyKong";
     }
     
     public void move(Direction direction) {
