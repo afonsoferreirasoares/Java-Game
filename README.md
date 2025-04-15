@@ -19,7 +19,6 @@ A full Java project developed with the goal to create a similar game to **Donkey
 - Make sure you have **Java JDK** installed  
   👉 Search for "Java JDK download" or go [here](https://www.oracle.com/java/technologies/javase-downloads.html)
 
----
 
 ## ⚙️ How to Run the Game
 
